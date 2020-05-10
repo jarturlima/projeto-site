@@ -153,6 +153,31 @@ footer#rodape {
     border-top: 1px solid rgba(0, 0, 0, .5);
 }
 
+table#tabelaspec td.ce {
+    color: #ffffff;
+    background-color: #606060;
+    vertical-align: top;
+    font-weight: bold;
+}
+
+table#tabelaspec td.cd {
+    background-color: #cecece;
+}
+
+table#tabelaspec caption {
+    color: #888888;
+    font-size: 10pt;
+    font-weight: bolder;
+}
+
+table#tabelaspec caption span {
+    display: block;
+    float: right;
+    color: #000000;
+   
+
+}
+
 footer#rodape p {
     text-align: center;
 }
